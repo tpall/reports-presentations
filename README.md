@@ -1,2 +1,3 @@
-# reports-presentations
-Rmarkdown presentations and reports
+# Reports and presentations
+
+Introductory slides to Rmarkdown presentations and reports.
